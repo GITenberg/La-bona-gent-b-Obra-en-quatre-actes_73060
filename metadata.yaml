@@ -1,0 +1,36 @@
+_repo: La-bona-gent-b-Obra-en-quatre-actes_73060
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rusiñol, Santiago
+    aliases:
+    - Rusinol, Santiago
+    - Rusiñol y Prats, Santiago
+    - Russinyol, Santiago
+    - Russinyol i Prats, Santiago
+    - Prats, Santiago Rusiñol y
+    birthdate: 1861
+    deathdate: 1931
+    gutenberg_agent_id: '49058'
+    url: http://www.gutenberg.org/2009/agents/49058
+    wikipedia: https://ca.wikipedia.org/wiki/Santiago_Rusi%C3%B1ol_i_Prats
+description: ''
+gutenberg_issued: '2024-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73060'
+language: ca
+pgterms:marc905: 20240222085730rusiol
+pgterms:marc906: '1906'
+pgterms:marc907: ES
+production_note: Joan Queralt Gil
+publication_note: '  $aBarcelona :$bAntonio López, Editor, Llibreria Espanyola, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catalan drama'
+- !lcc 'PC'
+- GITenberg
+title: 'La bona gent : $b Obra en quatre actes'
+url: http://www.gutenberg.org/ebooks/73060

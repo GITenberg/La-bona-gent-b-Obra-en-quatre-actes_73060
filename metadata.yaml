@@ -1,5 +1,8 @@
 _repo: La-bona-gent-b-Obra-en-quatre-actes_73060
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rusiñol, Santiago
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49058
     wikipedia: https://ca.wikipedia.org/wiki/Santiago_Rusi%C3%B1ol_i_Prats
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73060#La-bona-gent-b-Obra-en-quatre-actes
 gutenberg_issued: '2024-02-27'
 gutenberg_type: Text
 identifiers:
